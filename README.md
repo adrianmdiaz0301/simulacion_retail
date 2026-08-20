@@ -118,11 +118,10 @@ Open rate, CTR y tasa de conversión por `tipo_campana` + `variante_ab`, con la 
 
 ---
 
-## 🖼️ Dashboard
+## 🖼️ [Dashboard](https://datastudio.google.com/reporting/72f019d9-b095-4d74-8b41-79c7fbf14904)
 
 <img width="1160" height="870" alt="Screenshot 2026-08-19 at 8 05 27 PM" src="https://github.com/user-attachments/assets/6d54da6b-e281-421a-a59c-2064c1735601" />
 
-[Dashboard en Data Studio](https://datastudio.google.com/reporting/72f019d9-b095-4d74-8b41-79c7fbf14904)
 ---
 
 ## 📁 Estructura del Repositorio
