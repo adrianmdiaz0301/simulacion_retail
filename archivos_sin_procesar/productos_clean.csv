@@ -1,0 +1,201 @@
+producto_id,nombre_producto,categoria,subcategoria,precio_base,marca,stock_disponible
+101,"Genérico Luis 394",Electrónica,Televisores,907.15,"Tottus Marca Propia",433
+102,"Molitalia Sala 985",Juguetes,Clásicos,1084.90,Nike,35
+103,"Nike Tiempos 553",Ropa,Accesorios,1509.32,Reebok,142
+104,"Samsung Sectores 619",Belleza,"Cuidado personal",2213.07,Nike,55
+105,"Nike Rosa 181",Alimentos,Orgánicos,838.62,Nestlé,280
+106,"Samsung Madre 302",Juguetes,Electrónicos,903.02,Nike,274
+107,"LG Otros 247",Hogar,Limpieza,1171.67,Adidas,137
+108,"Nestlé Mismos 689",Deportes,Fútbol,1886.70,Nestlé,65
+109,"HP Hacer 816",Belleza,Perfumes,2155.87,LG,401
+110,"Adidas Violencia 819",Belleza,Perfumes,418.96,Molitalia,49
+111,"Adidas De 292",Electrónica,Televisores,116.37,Nestlé,473
+112,"Samsung Temas 968",Deportes,Fútbol,1270.77,Nike,380
+113,"Reebok Sobre 874",Ropa,Calzado,2150.67,LG,351
+114,"HP Opinión 266",Deportes,Running,1566.37,Samsung,216
+115,"Tottus Marca Propia Porque 750",Alimentos,Orgánicos,1500.95,Reebok,104
+116,"Molitalia Sectores 403",Belleza,"Cuidado personal",1355.08,HP,20
+117,"Molitalia Un 522",Hogar,Cocina,2081.70,Genérico,456
+118,"Nestlé Blanca 755",Hogar,Cocina,406.89,HP,338
+119,"LG Don 323",Ropa,Accesorios,1998.83,HP,290
+120,"Tottus Marca Propia Jamás 356",Hogar,Muebles,357.32,Genérico,30
+121,"Reebok De 853",Ropa,Pantalones,2042.46,Genérico,5
+122,"HP Ministro 643",Electrónica,Laptops,522.39,Genérico,57
+123,"Nike Existe 770",Electrónica,Audio,1736.07,HP,172
+124,"LG Niños 388",Belleza,Perfumes,213.45,Adidas,500
+125,"Samsung Sean 166",Hogar,Cocina,1053.19,Samsung,319
+126,"Nike Comunicación 164",Alimentos,Bebidas,288.49,"Tottus Marca Propia",368
+127,"Genérico Hospital 452",Deportes,Running,1258.40,Nestlé,141
+128,"Nike Tenía 734",Electrónica,Celulares,114.43,Nestlé,145
+129,"Tottus Marca Propia Menos 181",Ropa,Calzado,268.41,Adidas,220
+130,"Genérico Han 112",Juguetes,Clásicos,19.96,Samsung,123
+131,"Adidas Sabe 426",Alimentos,Orgánicos,2336.91,Samsung,118
+132,"Molitalia Nadie 889",Electrónica,Audio,1664.91,Nestlé,112
+133,"Reebok Pocos 814",Alimentos,Bebidas,420.02,Samsung,316
+134,"Molitalia Juan 794",Hogar,Decoración,574.61,Adidas,309
+135,"Adidas Explicó 682",Hogar,Limpieza,1777.26,Genérico,292
+136,"LG Principio 844",Alimentos,Snacks,843.83,Nestlé,384
+137,"Reebok Humano 561",Juguetes,Educativos,301.05,Adidas,136
+138,"Reebok Pp 860",Juguetes,Clásicos,1832.29,Molitalia,475
+139,"Genérico Ningún 479",Ropa,Pantalones,1994.29,Samsung,282
+140,"Genérico Después 407",Hogar,Decoración,1375.60,HP,181
+141,"Genérico Unidos 420",Belleza,"Cuidado personal",993.39,"Tottus Marca Propia",430
+142,"Nestlé Población 862",Juguetes,Electrónicos,1645.63,Reebok,121
+143,"HP Grande 333",Deportes,Natación,988.01,HP,77
+144,"Molitalia Más 274",Ropa,Accesorios,1446.74,LG,11
+145,"Nike Familia 807",Belleza,"Cuidado personal",1877.04,"Tottus Marca Propia",283
+146,"Reebok Diciembre 519",Belleza,Perfumes,1722.59,Nike,299
+147,"Genérico Cuando 572",Deportes,Natación,2470.00,"Tottus Marca Propia",162
+148,"Reebok Distintas 915",Electrónica,Televisores,572.20,Nike,390
+149,"Tottus Marca Propia Ellos 574",Hogar,Muebles,1613.28,Reebok,112
+150,"Genérico Propio 563",Juguetes,Electrónicos,397.61,"Tottus Marca Propia",87
+151,"Samsung Decir 245",Hogar,Limpieza,1737.89,Nike,412
+152,"Tottus Marca Propia Todavía 529",Electrónica,Celulares,1885.74,HP,494
+153,"Nike Difícil 994",Belleza,"Cuidado personal",1793.31,Reebok,422
+154,"Samsung Jamás 907",Hogar,Muebles,2234.02,"Tottus Marca Propia",196
+155,"Reebok Club 490",Belleza,"Cuidado personal",2423.51,Genérico,104
+156,"Samsung Armas 509",Ropa,Accesorios,2001.82,Molitalia,277
+157,"Reebok Mejores 114",Deportes,Fútbol,1243.00,HP,315
+158,"Tottus Marca Propia Pone 910",Hogar,Cocina,2290.44,Samsung,8
+159,"Samsung Situación 254",Electrónica,Celulares,1740.36,Genérico,488
+160,"Molitalia Ayer 288",Ropa,Pantalones,773.25,Molitalia,82
+161,"HP Semanas 197",Alimentos,Orgánicos,1891.92,Nestlé,46
+162,"Nike Encima 500",Electrónica,Celulares,764.05,"Tottus Marca Propia",292
+163,"Genérico Serán 253",Alimentos,Orgánicos,530.94,Samsung,379
+164,"LG Larga 445",Hogar,Decoración,1599.20,HP,314
+165,"HP Ambiente 122",Hogar,Decoración,2379.36,Molitalia,498
+166,"Genérico Habla 501",Deportes,Gym,485.53,Nestlé,138
+167,"Samsung Sobre 410",Deportes,Fútbol,50.29,LG,414
+168,"Nestlé Rodríguez 384",Hogar,Cocina,746.43,Genérico,248
+169,"HP Dan 294",Ropa,Pantalones,525.57,Adidas,63
+170,"Genérico Club 721",Hogar,Cocina,2070.85,"Tottus Marca Propia",48
+171,"Genérico Necesario 543",Alimentos,Orgánicos,1704.37,Molitalia,126
+172,"Tottus Marca Propia Cual 972",Juguetes,Educativos,176.79,Nike,432
+173,"Samsung No 599",Alimentos,Bebidas,1136.92,"Tottus Marca Propia",208
+174,"Nike Mayor 461",Deportes,Fútbol,306.10,Adidas,113
+175,"Adidas Siempre 168",Alimentos,Snacks,2362.73,Nestlé,123
+176,"Reebok Miedo 822",Ropa,Camisetas,1657.31,Adidas,235
+177,"Genérico San 722",Hogar,Decoración,36.22,Samsung,312
+178,"LG Niño 244",Belleza,"Cuidado personal",1497.89,Nike,84
+179,"HP Socialista 631",Ropa,Accesorios,864.43,Reebok,456
+180,"Genérico Pequeña 922",Electrónica,Televisores,943.48,LG,88
+181,"HP Podemos 526",Juguetes,Clásicos,766.36,"Tottus Marca Propia",469
+182,"Genérico Momentos 113",Belleza,Maquillaje,1551.91,LG,112
+183,"LG Civil 746",Ropa,Accesorios,2299.69,Genérico,143
+184,"Samsung Problema 446",Alimentos,Bebidas,1591.66,Reebok,54
+185,"LG Pueblo 800",Belleza,Perfumes,1487.37,LG,1
+186,"Molitalia O 539",Ropa,Camisetas,1700.97,Nestlé,122
+187,"Molitalia Cuarto 224",Hogar,Limpieza,2442.76,Molitalia,343
+188,"Molitalia Administración 232",Deportes,Gym,1254.94,Reebok,157
+189,"Nestlé Siguiente 388",Electrónica,Audio,885.16,LG,222
+190,"Reebok Tiene 842",Deportes,Running,646.82,Genérico,296
+191,"Reebok Deja 926",Deportes,Fútbol,1189.21,Nestlé,440
+192,"Samsung Sabía 478",Deportes,Fútbol,1996.58,Genérico,307
+193,"Molitalia Luego 584",Ropa,Calzado,1884.74,"Tottus Marca Propia",434
+194,"Adidas Nadie 118",Alimentos,Snacks,1926.75,Molitalia,197
+195,"Genérico Uno 478",Alimentos,Orgánicos,1062.47,Nestlé,228
+196,"Tottus Marca Propia Quién 352",Hogar,Muebles,1471.90,Molitalia,109
+197,"HP Padres 434",Alimentos,Snacks,2202.77,Molitalia,118
+198,"HP Saber 992",Deportes,Natación,2373.31,Molitalia,51
+199,"Reebok Sin 749",Hogar,Muebles,1715.24,Samsung,433
+200,"Genérico Ser 905",Hogar,Decoración,2486.65,Genérico,41
+201,"LG Cabo 668",Juguetes,Electrónicos,956.06,Reebok,209
+202,"Reebok Paz 691",Belleza,Maquillaje,2407.29,Adidas,364
+203,"Reebok Ocasión 815",Juguetes,Clásicos,1900.01,Genérico,227
+204,"HP Nuestros 230",Juguetes,Clásicos,226.11,Reebok,226
+205,"Reebok Relaciones 900",Deportes,Running,637.79,Nestlé,76
+206,"Molitalia Fueron 334",Deportes,Fútbol,239.11,Nestlé,378
+207,"Molitalia Somos 724",Alimentos,Snacks,620.94,Molitalia,454
+208,"HP Con 932",Hogar,Decoración,2078.25,Adidas,196
+209,"HP Principal 600",Electrónica,Celulares,1581.90,LG,435
+210,"Molitalia Has 581",Hogar,Cocina,243.98,LG,314
+211,"Nike Muy 420",Alimentos,Bebidas,955.77,LG,384
+212,"Nestlé Plaza 197",Hogar,Decoración,850.02,LG,194
+213,"Tottus Marca Propia Tiene 868",Belleza,"Cuidado personal",1512.95,Molitalia,11
+214,"Samsung J 738",Electrónica,Audio,1178.45,Nestlé,277
+215,"Reebok Diciembre 183",Deportes,Gym,813.88,HP,391
+216,"Nestlé Pp 602",Hogar,Muebles,1385.99,Reebok,139
+217,"Genérico Podría 717",Hogar,Decoración,1763.03,Reebok,105
+218,"LG Principales 168",Ropa,Calzado,1133.43,HP,451
+219,"Genérico Sería 498",Deportes,Fútbol,1538.12,Molitalia,344
+220,"HP Efectos 910",Alimentos,Bebidas,246.34,HP,251
+221,"LG Investigación 828",Ropa,Camisetas,1712.69,Reebok,223
+222,"Samsung Parece 472",Juguetes,Electrónicos,1487.60,LG,404
+223,"Nike Unidad 585",Alimentos,Bebidas,1691.32,HP,448
+224,"HP Nosotros 328",Hogar,Cocina,80.21,Reebok,268
+225,"Nike Pero 435",Juguetes,Educativos,1270.62,Nestlé,175
+226,"Reebok Crecimiento 944",Belleza,Perfumes,181.96,"Tottus Marca Propia",164
+227,"Molitalia Dar 594",Ropa,Calzado,461.19,LG,10
+228,"Nestlé Rafael 249",Ropa,Accesorios,694.03,LG,255
+229,"LG Aparece 427",Juguetes,Educativos,1416.93,Molitalia,259
+230,"Genérico Será 421",Electrónica,Laptops,2005.24,"Tottus Marca Propia",315
+231,"Molitalia San 649",Juguetes,Educativos,1343.75,HP,198
+232,"HP Cambios 943",Juguetes,Educativos,1813.56,Molitalia,429
+233,"HP Etc 711",Ropa,Camisetas,640.40,Samsung,226
+234,"Molitalia S 223",Electrónica,Televisores,302.91,LG,310
+235,"LG La 851",Ropa,Pantalones,1296.63,HP,105
+236,"Nike Iglesia 853",Electrónica,Audio,442.97,Reebok,190
+237,"HP Muy 636",Hogar,Muebles,1134.74,Nestlé,73
+238,"Nestlé Cama 389",Ropa,Accesorios,2135.34,Nestlé,360
+239,"HP Administración 909",Electrónica,Laptops,109.05,Reebok,39
+240,"Tottus Marca Propia Asunto 533",Belleza,Perfumes,1506.75,HP,307
+241,"Nike Sectores 405",Juguetes,Clásicos,1072.50,Genérico,428
+242,"LG Medida 309",Electrónica,Celulares,1720.12,Molitalia,357
+243,"Samsung Pedro 403",Juguetes,Educativos,2421.72,Nestlé,349
+244,"Nike Hicieron 129",Ropa,Calzado,201.19,Samsung,193
+245,"Tottus Marca Propia Cuarto 180",Juguetes,Electrónicos,1210.49,Adidas,86
+246,"Reebok Economía 576",Ropa,Accesorios,630.04,LG,403
+247,"Samsung Local 557",Ropa,Calzado,974.32,HP,206
+248,"Tottus Marca Propia Mano 668",Alimentos,Snacks,1863.86,HP,106
+249,"Samsung Conocimiento 708",Ropa,Accesorios,1638.11,Molitalia,111
+250,"Genérico Zonas 876",Alimentos,Bebidas,449.73,Reebok,160
+251,"Reebok Pequeño 210",Juguetes,Electrónicos,947.97,Samsung,180
+252,"LG Desde 566",Hogar,Limpieza,762.60,Genérico,207
+253,"LG Cuanto 302",Juguetes,Educativos,566.24,Reebok,140
+254,"Molitalia Policía 564",Belleza,"Cuidado personal",2165.24,HP,127
+255,"LG Tanto 266",Ropa,Calzado,1463.05,"Tottus Marca Propia",366
+256,"Molitalia Decía 231",Electrónica,Laptops,1238.39,Genérico,148
+257,"Reebok Sabe 117",Belleza,Maquillaje,1787.40,LG,460
+258,"Adidas Difícil 153",Alimentos,Orgánicos,2022.94,Molitalia,118
+259,"Reebok Consumo 665",Juguetes,Electrónicos,2370.62,Genérico,194
+260,"Genérico Atención 477",Deportes,Gym,298.97,Nestlé,307
+261,"Samsung Mar 422",Alimentos,Snacks,419.36,Reebok,449
+262,"Tottus Marca Propia Ver 663",Juguetes,Electrónicos,338.59,Samsung,240
+263,"Nike Vista 743",Hogar,Muebles,2447.20,LG,491
+264,"Tottus Marca Propia Trabajadores 761",Juguetes,Clásicos,1516.92,Molitalia,12
+265,"Reebok Llama 505",Alimentos,Bebidas,68.86,Adidas,351
+266,"Samsung Música 434",Ropa,Camisetas,1245.35,LG,478
+267,"Molitalia Mayores 956",Belleza,"Cuidado personal",1987.88,Adidas,288
+268,"Nike García 759",Ropa,Accesorios,1080.58,"Tottus Marca Propia",124
+269,"LG Palabra 431",Ropa,Calzado,1773.91,Nestlé,330
+270,"Molitalia Días 874",Alimentos,Orgánicos,2245.24,"Tottus Marca Propia",357
+271,"Molitalia Quienes 140",Electrónica,Laptops,926.97,Nike,33
+272,"Nestlé Negro 157",Electrónica,Televisores,1363.23,Adidas,231
+273,"Samsung Bastante 608",Alimentos,Orgánicos,1052.32,HP,365
+274,"Adidas Político 169",Ropa,Accesorios,93.41,LG,409
+275,"Samsung Dado 255",Electrónica,Celulares,1096.31,Genérico,11
+276,"Adidas Cual 635",Ropa,Calzado,1758.07,Genérico,199
+277,"Samsung Unión 830",Alimentos,Bebidas,176.58,Nestlé,292
+278,"HP Demás 194",Ropa,Pantalones,227.14,Molitalia,176
+279,"Reebok Ningún 465",Ropa,Calzado,2195.66,LG,184
+280,"Reebok Posibilidad 183",Deportes,Natación,1665.08,Nestlé,195
+281,"Tottus Marca Propia Político 451",Juguetes,Electrónicos,1191.76,Molitalia,10
+282,"Adidas Llegado 604",Alimentos,Bebidas,1272.66,"Tottus Marca Propia",251
+283,"Tottus Marca Propia Cierto 658",Electrónica,Celulares,615.57,HP,223
+284,"Nike Política 637",Electrónica,Audio,2320.38,LG,370
+285,"Tottus Marca Propia Período 757",Ropa,Pantalones,352.36,Nike,228
+286,"Tottus Marca Propia Francia 811",Alimentos,Orgánicos,69.93,"Tottus Marca Propia",465
+287,"Samsung Cierta 661",Ropa,Camisetas,224.99,Genérico,217
+288,"Adidas Ii 933",Deportes,Natación,475.03,Molitalia,45
+289,"HP Sociales 559",Hogar,Decoración,499.25,Adidas,223
+290,"Samsung Autoridades 218",Alimentos,Bebidas,1653.02,Genérico,130
+291,"LG Cuya 332",Belleza,"Cuidado personal",1369.29,"Tottus Marca Propia",178
+292,"HP Base 157",Electrónica,Televisores,1397.80,"Tottus Marca Propia",117
+293,"Nestlé Solo 124",Deportes,Natación,1199.87,Reebok,137
+294,"Nike Hospital 758",Juguetes,Electrónicos,2427.45,Adidas,187
+295,"HP Paz 590",Electrónica,Audio,1644.06,Samsung,466
+296,"Nike Siempre 143",Alimentos,Bebidas,1459.44,Samsung,133
+297,"HP Francisco 876",Deportes,Running,298.38,Adidas,245
+298,"HP Carlos 256",Belleza,Perfumes,108.90,Reebok,80
+299,"Samsung Primeras 612",Alimentos,Bebidas,514.01,Nike,86
+300,"Reebok Nacional 430",Electrónica,Televisores,757.78,Nike,112
