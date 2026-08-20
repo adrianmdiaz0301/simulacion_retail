@@ -69,12 +69,14 @@ Arquitectura de múltiples CTEs encadenados (recencia, frecuencia, monetario, ag
 **Hallazgo clave:** Cliente Leal genera el mayor ingreso total (S/16.4M), pero Campeón tiene el mayor ingreso por cliente. El segmento Inactivo representa S/7.9M en gasto histórico — una oportunidad de reactivación a costo de adquisición cero.
 
 **Queries**
+
 <img width="829" height="564" alt="Screenshot 2026-08-19 at 7 24 44 PM" src="https://github.com/user-attachments/assets/b0b66938-7a3a-4fb9-9f94-3067f8d5d3ff" />
 <img width="829" height="461" alt="Screenshot 2026-08-19 at 7 24 51 PM" src="https://github.com/user-attachments/assets/531bea88-16b4-4622-a129-bf62f6a21466" />
 <img width="1036" height="505" alt="Screenshot 2026-08-19 at 7 25 08 PM" src="https://github.com/user-attachments/assets/c1836f32-5802-461d-8432-928f18eb381c" />
 <img width="1036" height="219" alt="Screenshot 2026-08-19 at 7 25 16 PM" src="https://github.com/user-attachments/assets/5639931b-1790-4c9b-85d0-c425f2c59b49" />
 
 **Tabla: Resumen por segmento**
+
 <img width="532" height="167" alt="Screenshot 2026-08-19 at 7 26 27 PM" src="https://github.com/user-attachments/assets/7a163d0e-bd1e-462c-858d-54a49faf4f73" />
 
 ### Fase 3 — Análisis de Ingresos y Productos
