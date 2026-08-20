@@ -2,7 +2,7 @@
 
 Este proyecto forma parte de mi portafolio como Analista de Datos / BI y simula el trabajo analítico completo de un CRM Analyst en una empresa de retail e-commerce peruana (pensando en compañías como Falabella, Intercorp Retail o BBVA Perú). Todo el análisis se desarrolló en **MySQL**, partiendo de un dataset relacional sintético de 53,650 filas generado en Python (pandas + Faker).
 
-El objetivo no fue solo escribir queries — fue simular el ciclo completo de un analista CRM: limpiar datos crudos con problemas reales, segmentar clientes, medir retención, diagnosticar el embudo de conversión y evaluar si una campaña realmente funcionó, entregando siempre una recomendación de negocio accionable.
+El objetivo fue simular el ciclo completo de un analista CRM: limpiar datos crudos con problemas reales, segmentar clientes, medir retención, diagnosticar el embudo de conversión y evaluar si una campaña realmente funcionó, entregando siempre una recomendación de negocio accionable.
 
 ---
 
